@@ -23,6 +23,7 @@
 *** Does it have data migrations?
 **** TODO Sync with the data team
 **** TODO Use the "Find & Replace" tool on looker to check references to changing field
+- https://lendinghome.looker.com/projects/zz_dev/files/00_sales.md
 **** TODO Check field mapper to see if any fields are affected
 ** Development
 *** TODO Branch off development
@@ -30,7 +31,7 @@
 ** Pre-deployment
 *** Does it have migrations?
 **** TODO Coordinate with the data team
-*** TODO Wait for development
+*** TODO Wait for development to go green
 *** TODO Create a PR that merges develop with master
 *** TODO Pull the latest version of lendinghome-toolbelt
 *** TODO lh-prep-deploy
