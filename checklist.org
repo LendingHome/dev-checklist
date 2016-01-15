@@ -1,0 +1,20 @@
+* Development Checklist
+** Post-development
+*** TODO Outline sub-systems affected by change
+- Sync with sub-system maintainers
+*** Does it have UI changes?
+**** TODO Sync with the design team
+*** Does it have data migrations?
+**** TODO Sync with the data team
+**** TODO Check field mapper to see if any fields are affected
+** Development
+*** TODO Branch off development
+*** TODO Demo feature to team members or end user for feedback
+** Pre-deployment
+*** Does it have migrations?
+**** TODO Coordinate with the data team
+*** TODO Wait for development
+*** TODO Create a PR that merges develop with master
+*** TODO Pull the latest version of lendinghome-toolbelt
+*** TODO lh-prep-deploy
+*** TODO Let people know you are planning to deploy on #deployment on Slack
