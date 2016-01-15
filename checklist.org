@@ -1,7 +1,23 @@
 * Development Checklist
 ** Post-development
 *** TODO Outline sub-systems affected by change
-- Sync with sub-system maintainers
+- Sync with sub-system experts
+  - Money Movement
+    - PM: Alex Leary 
+    - All: John Andrews
+    - Accounts: Felix Flores
+    - BAI: Li Ouyang
+    - Batching/Transfer Priority: Felix Flores
+    - Transfers: Felix Flores
+  - Servicing
+    - PM: Alex Leary 
+    - All: Zac Horn
+    - Expected Repayment: Li Ouyang
+    - Payment Attempts: Maxime  
+    - Secondary Sales: Li Ouyang
+  - Toolkits
+    - PM: Chris Sherrard 
+    - All: Eduardo Del Balso & Scott Walker 
 *** Does it have UI changes?
 **** TODO Sync with the design team
 *** Does it have data migrations?
